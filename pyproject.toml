@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "repl_python3_Nctzen2429"
+name = "Alive"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "To keep my account alive"
+authors = ["AmpliDude"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
